@@ -53,7 +53,15 @@ Each one comes with their own Wiki pages containing instructions.
     * Hardware with up to three radios using 802.11n/ac/ax (Wi-Fi 4/5/6)  
 
 # Licensing
-All the code is released under the **GNU General Public License v3.0**.<br/>
-This means you are allowed to do modifications and changes.
+* All the code is released under the **GNU General Public License v3.0**.<br/>
+* This means you are allowed to do modifications and changes.
+
+# Funding
+
+This project also received funding through [NGI0 Entrust](https://nlnet.nl/entrust), a fund established by [NLnet](https://nlnet.nl) with financial support from the European Commission's [Next Generation Internet](https://ngi.eu) program.<br/>
+Learn more at the [NLnet project page](https://nlnet.nl/project/RADIUSdesk-Multiwan).<br/>
+<br/>
+[<img src="https://nlnet.nl/logo/banner.png" alt="NLnet foundation logo" width="20%" />](https://nlnet.nl)<br/>
+[<img src="https://nlnet.nl/image/logos/NGI0_tag.svg" alt="NGI Zero Logo" width="20%" />](https://nlnet.nl/entrust)<br/>
 
 
