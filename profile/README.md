@@ -49,8 +49,8 @@ We aim to provide a centralized management system for your Internet users and ha
 
 # Getting Started
 Below, you will find pinned repositories, each with its own comprehensive wiki page providing detailed instructions:
-* **rdcore:** Instructions for installing the central administration system.
-* **openwrt-meshdesk:** Guidelines for compiling the OpenWrt firmware with the MESHdesk package.
+* [rdcore:](https://github.com/RADIUSdesk/rdcore)  Instructions for installing the central administration system.
+* [openwrt-meshdesk:](https://github.com/RADIUSdesk/openwrt-meshdesk) Guidelines for compiling the OpenWrt firmware with the MESHdesk package.
 
 # History
 RADIUSdesk has a rich history spanning over a decade.
