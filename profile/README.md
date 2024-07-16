@@ -17,6 +17,8 @@ MESHdesk allows you to create and manage mesh networks with ease. It is designed
 * **Firmware Management:** Remotely update and manage firmware across all APs.
 * **Network Visualization:** Visualize the mesh network topology and monitor the health of each node.
 
+![Mesh Nodes Mobile](https://radiusdesk.com/wiki24/_media/homepages/mobile_mesh.png "Mesh Nodes Mobile")
+
 # APdesk
 APdesk provides powerful tools for managing individual access points (APs). It simplifies the process of configuring, monitoring, and maintaining APs to ensure a high-quality network experience.
 
@@ -26,6 +28,8 @@ APdesk provides powerful tools for managing individual access points (APs). It s
 * **Security Management:** Configure security settings including encryption, firewall rules, and access controls.
 * **Client Management:** Monitor and manage clients connected to each AP.
 * **Reporting and Analytics:** Generate detailed reports on AP performance, client activity, and network usage.
+
+![LTE Sginal](https://radiusdesk.com/wiki24/_media/network/lte_tooltip.png "LTE Signal")
 
 # Flexible and Cost-Effective Deployment with MESHdesk and APdesk
 One of the standout benefits of MESHdesk and APdesk is the flexibility to use a wide range of hardware, from current off-the-shelf models to repurposed devices. This includes:
