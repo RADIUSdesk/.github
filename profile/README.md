@@ -74,11 +74,11 @@ When we first started, our technology stack included:
 ## Current Setup
 Today, RADIUSdesk utilizes a more advanced and robust stack:
 
-* **Operating System:** Ubuntu 24.04
+* **Operating System:** Ubuntu 26.04
 * **RADIUS Server:** FreeRADIUS 3.x
 * **JavaScript Framework:** ExtJS 7.0
-* **PHP Framework:** CakePHP 4.x
-* **Router Firmware:** OpenWrt 23.05.x
+* **PHP Framework:** CakePHP 5.x
+* **Router Firmware:** OpenWrt 25.12.x
 * **Hardware:** Devices with up to three radios supporting 802.11n/ac/ax (Wi-Fi 4/5/6)
 
 
